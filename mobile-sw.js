@@ -1,4 +1,4 @@
-const CACHE = "subway-coldtable-v42";
+const CACHE = "subway-coldtable-09d783e866";
 const ASSETS = [
   "./",
   "./index.html",
