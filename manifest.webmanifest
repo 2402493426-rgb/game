@@ -1,0 +1,27 @@
+{
+  "name": "SUBWAY 冷台 · 一人出餐",
+  "short_name": "SUBWAY 冷台",
+  "description": "单人触屏冷台出餐游戏：常规/LTO/早餐/能量碗/百味卷/蛋焙卷六个练习模块，配方依据 2026 标准配方卡。",
+  "start_url": "./mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e7efd3",
+  "theme_color": "#a8c66c",
+  "lang": "zh-CN",
+  "categories": ["games", "food"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
